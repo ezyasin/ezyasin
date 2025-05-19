@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love working on ex
 
 ## 🌟 Projects
 
-- **[Project](https://github.com/ezyasin)**: Coming soon!
+- **[GitSentinel](https://github.com/ezyasin/GitSentinel)**: GitSentinel is an open-source cli tool that analyzes GitHub repositories to provide risk and reputation scoring.
 
 ---
 
